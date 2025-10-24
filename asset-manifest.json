@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/plant-shop/static/css/main.3c8abdd6.css",
-    "main.js": "/plant-shop/static/js/main.885ecdd2.js",
-    "static/js/453.d0522e0f.chunk.js": "/plant-shop/static/js/453.d0522e0f.chunk.js",
-    "index.html": "/plant-shop/index.html",
-    "main.3c8abdd6.css.map": "/plant-shop/static/css/main.3c8abdd6.css.map",
-    "main.885ecdd2.js.map": "/plant-shop/static/js/main.885ecdd2.js.map",
-    "453.d0522e0f.chunk.js.map": "/plant-shop/static/js/453.d0522e0f.chunk.js.map"
+    "main.css": "/bataycanjohnmichael-afk/plant-shop/static/css/main.3c8abdd6.css",
+    "main.js": "/bataycanjohnmichael-afk/plant-shop/static/js/main.950abc59.js",
+    "static/js/453.d0522e0f.chunk.js": "/bataycanjohnmichael-afk/plant-shop/static/js/453.d0522e0f.chunk.js",
+    "index.html": "/bataycanjohnmichael-afk/plant-shop/index.html",
+    "main.3c8abdd6.css.map": "/bataycanjohnmichael-afk/plant-shop/static/css/main.3c8abdd6.css.map",
+    "main.950abc59.js.map": "/bataycanjohnmichael-afk/plant-shop/static/js/main.950abc59.js.map",
+    "453.d0522e0f.chunk.js.map": "/bataycanjohnmichael-afk/plant-shop/static/js/453.d0522e0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c8abdd6.css",
-    "static/js/main.885ecdd2.js"
+    "static/js/main.950abc59.js"
   ]
 }
