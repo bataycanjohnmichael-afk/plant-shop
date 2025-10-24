@@ -1,0 +1,26 @@
+.product-listing {
+  padding: 20px;
+}
+.category {
+  margin-bottom: 40px;
+}
+.plants {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.plant-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+}
+.plant-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+button:disabled {
+  background: gray;
+  cursor: not-allowed;
+}
